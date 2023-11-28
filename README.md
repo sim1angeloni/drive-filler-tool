@@ -2,7 +2,7 @@
 
 ## Description
 
-The Drive Filler Tool generates random files to fill up a specified drive.
+The Drive Filler Tool generates random files to fill up a specified drive in few seconds.
 
 ## Table of Contents:
 
